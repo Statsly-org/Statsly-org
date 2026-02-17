@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Statsly-Org/Statsly-Org/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Statsly-org/Statsly-org/output/snake.svg" alt="Snake animation" />
 
 ###
