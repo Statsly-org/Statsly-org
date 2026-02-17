@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/15/70/84/157084787880c1ead98ec92332da7094.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/15/70/84/157084787880c1ead98ec92332da7094.gif"  />
 
 ###
 
